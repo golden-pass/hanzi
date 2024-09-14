@@ -1,0 +1,19 @@
+{
+    "name": "golden-pass/hanzi",
+    "description": "检测所有的unicode可以支持的汉字",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GoldenPass\\Hanzi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "golden-pass",
+            "email": "flowpassgold@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
